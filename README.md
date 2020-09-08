@@ -1,4 +1,4 @@
-# Execução do terraform
+# Devops Challenge
 
 ## Requisitos
 
@@ -27,12 +27,12 @@ Após o plan ok com sua necessidade, faça a aplicação.
 $ terraform apply
 ```
 
-Observações
+## Observações
 
 - Para ambiente corporativos é recomendado a utilização de um armazenamento de estado remoto, seja S3 ou Terraform Cloud. Não foi contemplado neste exercício.
 - Não foi contemplado a separação de credenciais e diferenciais entre ambientes dev, stage ou prod.
 - Não foi utilizado modules.
 
-Arquitetura
+## Arquitetura
 
 ![Arquitetura](imags/../imgs/arch.png)
