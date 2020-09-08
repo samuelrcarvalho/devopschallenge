@@ -18,7 +18,7 @@ $ terraform init
 Execute o plan para validar se estão correto os parâmetros.
 
 ```bash
-terraform plan
+$ terraform plan
 ```
 
 Após o plan ok com sua necessidade, faça a aplicação.
