@@ -31,7 +31,7 @@ $ terraform apply
 
 - Para ambiente corporativos é recomendado a utilização de um armazenamento de estado remoto, seja S3 ou Terraform Cloud. Não foi contemplado neste exercício.
 - Não foi contemplado a separação de credenciais e diferenciais entre ambientes dev, stage ou prod.
-- Não foi utilizado modules.
+- Não foi utilizado modules, porém se fosse hoje eu usaria.
 
 ## Arquitetura
 
